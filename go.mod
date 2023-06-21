@@ -1,4 +1,4 @@
-module github.com/wtfutil/wtf
+module github.com/dochench/wtf
 
 go 1.19
 
